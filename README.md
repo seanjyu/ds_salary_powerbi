@@ -1,4 +1,4 @@
-# ds_salary_powerbi
+# Data Science Salary PowerBI Dashboard
 
 ![dashboard_1](/Images/dashboard_1.PNG)
 
